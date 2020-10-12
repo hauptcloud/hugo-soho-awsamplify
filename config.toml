@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "HauptCloud Hugo Demo Site"
+title = "HauptCloud Demo Site"
 theme = "soho"
 
 summarylength = 10
@@ -8,7 +8,7 @@ enableEmoji = true
 
 [params]
 author = "Eric Haupt"
-description = "HauptCloud Demo Site"
+description = "Hugo - Soho Theme"
 
 ## Set one of:
 # gravatar = "soho@example.com"
