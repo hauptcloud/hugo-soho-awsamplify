@@ -12,12 +12,13 @@
     
     
     <item>
-      <title>Hugo Soho Theme demo site hosted on AWS Amplify</title>
+      <title>Welcome to my Hugo demo website hosted on AWS Amplify</title>
       <link>http://example.org/posts/my-first-post/</link>
       <pubDate>Mon, 12 Oct 2020 13:55:13 -0400</pubDate>
       
       <guid>http://example.org/posts/my-first-post/</guid>
-      <description></description>
+      <description>This static website is created using Hugo http://gohugo.io
+The Hugo theme is Soho https://themes.</description>
     </item>
     
   </channel>
