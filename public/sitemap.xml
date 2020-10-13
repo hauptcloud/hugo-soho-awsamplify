@@ -3,13 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://demo1.hauptcloud.training/posts/aws_amplify/</loc>
+    <lastmod>2020-10-12T22:45:04-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://demo1.hauptcloud.training/</loc>
-    <lastmod>2020-10-12T13:55:13-04:00</lastmod>
+    <lastmod>2020-10-12T22:45:04-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://demo1.hauptcloud.training/posts/</loc>
-    <lastmod>2020-10-12T13:55:13-04:00</lastmod>
+    <lastmod>2020-10-12T22:45:04-04:00</lastmod>
   </url>
   
   <url>
