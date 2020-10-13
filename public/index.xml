@@ -6,19 +6,10 @@
     <description>Recent content on HauptCloud Demo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2020 22:45:04 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2020 13:55:13 -0400</lastBuildDate>
     
 	<atom:link href="https://demo1.hauptcloud.training/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>AWS_Amplify</title>
-      <link>https://demo1.hauptcloud.training/posts/aws_amplify/</link>
-      <pubDate>Mon, 12 Oct 2020 22:45:04 -0400</pubDate>
-      
-      <guid>https://demo1.hauptcloud.training/posts/aws_amplify/</guid>
-      <description>HauptCloud Demo of Hugo on Amplify </description>
-    </item>
     
     <item>
       <title>Welcome to my Hugo demo website hosted on AWS Amplify</title>

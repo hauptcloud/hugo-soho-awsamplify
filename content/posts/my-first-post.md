@@ -11,9 +11,6 @@ My Github Repository         https://github.com/hauptcloud/hugo-soho-awsamplify
 
 Hosted on AWS Amplify        https://aws.amazon.com/amplify/  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Vm-4BbY58Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 In AWS Amplify my custom domain is    https://demo1.hauptcloud.training   using Route53.
 
 Also can be accessed with the amplifyapp.com domain       https://main.d1l3pzii5itb3w.amplifyapp.com
