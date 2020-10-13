@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on HauptCloud Demo Site</title>
-    <link>http://example.org/posts/</link>
+    <link>https://demo1.hauptcloud.training/posts/</link>
     <description>Recent content in Posts on HauptCloud Demo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Oct 2020 13:55:13 -0400</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://demo1.hauptcloud.training/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome to my Hugo demo website hosted on AWS Amplify</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://demo1.hauptcloud.training/posts/my-first-post/</link>
       <pubDate>Mon, 12 Oct 2020 13:55:13 -0400</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://demo1.hauptcloud.training/posts/my-first-post/</guid>
       <description>This static website is created using Hugo http://gohugo.io
 The Hugo theme is Soho https://themes.gohugo.io/soho/
 My Github Repository https://github.com/hauptcloud/hugo-soho-awsamplify

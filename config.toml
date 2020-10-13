@@ -1,9 +1,9 @@
-baseURL = "http://example.org/"
+baseURL = "https://demo1.hauptcloud.training/"
 languageCode = "en-us"
 title = "HauptCloud Demo Site"
 theme = "soho"
 
-summarylength = 50
+summarylength = 70
 enableEmoji = true
 
 [params]
@@ -29,7 +29,7 @@ customJs = ["js/blog.js"]
   [[params.socialIcons]]
   icon = "fa-linkedin"
   title = "Linkedin"
-  url = "#"
+  url = "https://www.linkedin.com/in/eric-m-haupt/"
 
   [[params.socialIcons]]
   icon = "fa-github"
